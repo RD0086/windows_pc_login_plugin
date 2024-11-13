@@ -14,13 +14,10 @@ Windows 登录插件 (类似Windows hello，但是对摄像头没有用要求)�
 |:---:|:---:|:---:|
 |Windows XP|不支持| - |
 |Windows Vista|不支持| - |
-|Windows XP|不支持| - |
-|Windows XP|不支持| - |
-|Windows XP|不支持| - |
-|Windows XP|不支持| - |
-|Windows XP|不支持| - |
-|Windows XP|不支持| - |
-|Windows XP|不支持| - |
+|Windows 7|支持| - |
+|Windows 8/8.1|支持| - |
+|Windows 10|支持| - |
+|Windows 11|支持| - |
 
 
 
