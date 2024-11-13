@@ -24,13 +24,11 @@ Windows 登录插件 (类似Windows hello，但是对摄像头没有用要求)�
 ## 联系我
 有任何疑问或者问题，可通过如下方式联系我
 
-```
 `Wechat Number:` esand_info </br>
 `QQ Number:` 3626921591 </br>
 `Phone Number:` +8613691664797</br>
 `Email:` reid.li@foxmail.com</br>
 `Telegram:` [@R90000000](https://t.me/R90000000)</br>
-```
 
 
 Wechat QR CODE :
